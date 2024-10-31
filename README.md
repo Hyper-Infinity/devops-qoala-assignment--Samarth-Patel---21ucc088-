@@ -1,3 +1,9 @@
+# Application Deploied On AWS: Accessible Endpoints Are Following 
+## Public IPv4 DNS: ec2-54-206-39-208.ap-southeast-2.compute.amazonaws.com
+## Public IPv4 address: 54.206.39.208
+
+---
+
 # DevOps Assignment: Debugging and Running a Dockerized Application
 
 Welcome to your DevOps assignment! Your goal is to debug and deploy a Dockerized application. The steps below outline the tasks you’ll complete, including setup, debugging, running, testing, and submitting your work.
