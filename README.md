@@ -1,4 +1,4 @@
-# Application Deploied On AWS: Accessible Endpoints Are Following 
+# Application Deployed On AWS: Accessible Endpoints Are Following 
 ## Public IPv4 DNS: http://ec2-54-206-39-208.ap-southeast-2.compute.amazonaws.com
 ## Public IPv4 address: 54.206.39.208
 
